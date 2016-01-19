@@ -19,5 +19,6 @@
       "email": "asklein@gmail.com"
     }
   ],
-  "minimum-stability": "stable"
+ "minimum-stability" : "dev",
+ "prefer-stable" : true
 }
